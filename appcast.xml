@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Talkie</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Fri, 27 Nov 2026 10:09:13 +0300</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/iuzn/talkie-releases/releases/download/v2.0.0/Talkie-2.0.0.dmg" length="7746651" type="application/octet-stream" sparkle:edSignature="e3Is6CCJ8KHo0YPCGKU5DPoNUjSFsbQLuCb+IQootCL3KzqRI5udA6VobEvaGhSpcR9TaxELwXmVe15zsYCTAA=="/>
+        </item>
+    </channel>
+</rss>
